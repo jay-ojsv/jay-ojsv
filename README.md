@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning ... C++
 - 💞️ I’m looking to collaborate on ... Whatever
 - 📫 How to reach me ... 
--     Jay Verma#7883 on Discord
--     jay.ojsv@gmail.com
+- 📫 Jay Verma#7883 on Discord
+- 📫 jay.ojsv@gmail.com
 
 
 <!---
